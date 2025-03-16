@@ -48,7 +48,7 @@
 0,HeartMode,0
 0.25,SineBones,50,30,400,85
 0,Sound,GasterBlaster,
-0,SansBody,HandRight
+0,SansBody,HandLeft
 0,SET,j,0
 0,JMPE,68,$j,2
 0,SET,i,0
