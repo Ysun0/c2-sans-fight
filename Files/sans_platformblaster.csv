@@ -27,8 +27,8 @@
 0,SUB,blasterStartY,$blasterY,500
 0,ANGLE,direction,$blasterX,$blasterY,$HeartX,$HeartY
 0,GasterBlaster,0,$blasterX,$blasterStartY,$blasterX,$blasterY,$direction,0.375,0.125
-0,MOD,blasterCycle,$i,4
-0,JMPE,62,$blasterCycle,0
+0,MOD,blasterCycle,$i,8
+0,JMPNE,62,$blasterCycle,0
 0,MUL,angle,$i,0.75
 0,COS,blasterX,$angle
 0,SET,blasterStartX,$blasterX
