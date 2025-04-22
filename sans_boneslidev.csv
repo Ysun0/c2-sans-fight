@@ -12,7 +12,7 @@
 0,SUB,blasterX,$blasterX,200
 0,ADD,blasterX,$blasterX,$heartX
 0,ANGLE,blasterAngle,$blasterX,$blasterY,$heartX,$heartY
-0,GasterBlaster,1,320,-150,$blasterX,$blasterY,$blasterAngle,0.875,0.125
+0,GasterBlaster,0,320,-150,$blasterX,$blasterY,$blasterAngle,0.875,0.125
 0,Sound,Bonestab,
 0,BoneH,230,210,90,1,150
 0,BoneH,320,382,90,3,150
@@ -29,7 +29,7 @@
 0,SUB,blasterX,$blasterX,200
 0,ADD,blasterX,$blasterX,$heartX
 0,ANGLE,blasterAngle,$blasterX,$blasterY,$heartX,$heartY
-0,GasterBlaster,1,320,-150,$blasterX,$blasterY,$blasterAngle,0.875,0.125
+0,GasterBlaster,0,320,-150,$blasterX,$blasterY,$blasterAngle,0.875,0.125
 0,Sound,Bonestab,
 0,BoneH,320,210,90,1,150
 0,BoneH,230,382,90,3,150
