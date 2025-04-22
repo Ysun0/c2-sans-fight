@@ -1,9 +1,9 @@
 0,HeartMode,0
 0,HeartTeleport,320,279
 0,CombatZoneResizeInstant,25,165,615,387
-0,PlatformRepeat,-5,340,55,0,128,64,96
-0,PlatformRepeat,645,280,55,2,128,64,96
-0,PlatformRepeat,-5,220,55,0,128,64,96
+0,PlatformRepeat,-5,340,55,0,128,64,128
+0,PlatformRepeat,645,280,55,2,128,64,128
+0,PlatformRepeat,-5,220,55,0,128,64,128
 0.25,Sound,Ding,
 0,HeartMode,1
 0,SET,i,0
@@ -18,7 +18,7 @@
 0,SUB,blasterX,$blasterX,200
 0,ADD,blasterX,$blasterX,$heartX
 0,ANGLE,blasterAngle,$blasterX,$blasterY,$heartX,$heartY
-0,GasterBlaster,0,320,-150,$blasterX,$blasterY,$blasterAngle,0.375,0.125
+0,GasterBlaster,1,320,-150,$blasterX,$blasterY,$blasterAngle,0.625,0.125
 0,JMPNE,30,$blasterCycle,0
 0,RND,blasterX,591
 0,ADD,blasterX,$blasterX,25
@@ -26,7 +26,7 @@
 0,ADD,blasterY,$blasterY,165
 0,SUB,blasterStartY,$blasterY,500
 0,ANGLE,direction,$blasterX,$blasterY,$HeartX,$HeartY
-0,GasterBlaster,0,$blasterX,$blasterStartY,$blasterX,$blasterY,$direction,0.25,0.125
+0,GasterBlaster,0,$blasterX,$blasterStartY,$blasterX,$blasterY,$direction,0.25,0
 0,MOD,blasterCycle,$i,8
 0,JMPNE,62,$blasterCycle,0
 0,MUL,angle,$i,1
