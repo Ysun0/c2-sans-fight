@@ -9,7 +9,7 @@
 0,JMPE,46,$random,3
 0,Sound,Flash,
 0,BlackScreen,1
-0,HeartTeleport,320,300,350,300
+0,HeartTeleport,320,300
 0,SansSlam,0
 0.125,BlackScreen,0
 0,Sound,Flash,
@@ -21,7 +21,7 @@
 0.625,JMPABS,5
 0,Sound,Flash,
 0,BlackScreen,1
-0,HeartTeleport,320,300,350,300
+0,HeartTeleport,320,300
 0,SansSlam,1
 0.125,BlackScreen,0
 0,Sound,Flash,
@@ -33,7 +33,7 @@
 0.625,JMPABS,5
 0,Sound,Flash,
 0,BlackScreen,1
-0,HeartTeleport,320,300,350,300
+0,HeartTeleport,320,300
 0,SansSlam,2
 0.125,BlackScreen,0
 0,Sound,Flash,
@@ -45,7 +45,7 @@
 0.625,JMPABS,5
 0,Sound,Flash,
 0,BlackScreen,1
-0,HeartTeleport,320,300,350,300
+0,HeartTeleport,320,300
 0,SansSlam,3
 0.125,BlackScreen,0
 0,Sound,Flash,
@@ -57,7 +57,7 @@
 0.625,JMPABS,5
 0,Sound,Flash,
 0,BlackScreen,1
-0,HeartTeleport,320,300,350,300
+0,HeartTeleport,320,300
 0,HeartMode,0
 0.125,CombatZoneResizeInstant,225,215,415,387
 0,BlackScreen,0

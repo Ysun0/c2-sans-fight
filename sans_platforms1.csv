@@ -25,7 +25,7 @@
 0,BoneVRepeat,420,120,40,1,88,64,80
 0,BoneVRepeat,520,120,40,1,72,64,80
 0,SET,j,0
-0,JMPE,43,$j,4
+0,JMPE,43,$j,8
 0,SET,i,0
 0,JMPE,41,$i,4
 0,RND,blasterY,25

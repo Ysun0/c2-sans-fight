@@ -3,7 +3,7 @@
 0,Sound,Ding,
 0,SansHead,BlueEye
 0,SansSlamDamage,1
-0.25,SET,i,1
+0.25,SET,i,0
 0,JMPE,36,$i,16
 0,RND,rng,4
 0,JMPE,18,$rng,1
