@@ -1,5 +1,6 @@
 0,CombatZoneResizeInstant,232,213,408,389
 0,HeartTeleport,320,350
+0,HeartMode,0
 0,platform,335,300,35,0,128,1
 0.25,SET,i,0
 0,JMPE,18,$i,8
