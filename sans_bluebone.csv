@@ -9,7 +9,7 @@
 0,BoneVRepeat,503,366,20,2,100,12,133
 0,SET,GasterRep1,0
 1,GetHeartPos,HeartX,HeartY
-0,GasterBlaster,1,0,0,$HeartX,250,90,0.25,0.25
+0,GasterBlaster,1,0,0,$HeartX,250,90,0.375,0.375
 0,MOD,ifEven,$GasterRep1,2
 0,JMPNE,17,$ifEven,0
 0,BoneV,503,366,20,2,172,1
