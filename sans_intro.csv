@@ -137,14 +137,15 @@
 1.25,JMPABS,123
 0.375,SansSweat,1
 0,SansHead,Default
-4,SansHead,LookLeft
-0,SansText,you might be wondering,
-0,SansHead,Default
+4,SansText,you might be wondering,
 0,SansText,why are the attacks           harder this time?,
 0,SansHead,LookLeft
 0,SansText,um,
-0,SansHead,Default
+0,SansHead,Wink
+0,SansTorso,Shrug
 0,SansText,i dont even know,
+0,SansTorso,Default
+0,SansHead,Default
 0,SansAnimation,Idle
 0,Sound,mus_zz_megalovania,1
 0,EndAttack
