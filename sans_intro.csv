@@ -91,10 +91,10 @@
 0,BoneStab,3,30,1.375,0.125
 0.5,SET,i,0
 0,JMPE,103,$i,4
-0,RND,blasterY,220
-0,ADD,blasterY,$blasterY,120
-0,RND,blasterX,220
-0,ADD,blasterX,$blasterX,160
+0,RND,blasterY,422
+0,ADD,blasterY,$blasterY,65
+0,RND,blasterX,422
+0,ADD,blasterX,$blasterX,109
 0,GetHeartPos,heartX,heartY
 0,ANGLE,blasterAngle,$blasterX,$blasterY,$heartX,$heartY
 0,GasterBlaster,0,320,-150,$blasterX,$blasterY,$blasterAngle,0.25,0.125
