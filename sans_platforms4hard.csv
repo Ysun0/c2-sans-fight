@@ -13,9 +13,9 @@
 0.25,SansTorso,Default
 0,SansAnimation,Idle
 0,BoneVRepeat,15,265,117,0,128,4,133
-0,BoneVRepeat,15,226,20,0,128,4,133
+0,BoneVRepeat,15,196,50,0,128,4,133
 0,BoneVRepeat,625,265,117,2,128,4,133
-0,BoneVRepeat,625,226,20,2,128,4,133
+0,BoneVRepeat,625,196,50,2,128,4,133
 5,Sound,BoneStab,
 0,CombatZoneResize,200,150,440,387
 0.875,Bonestab,3,15,0.25,16
