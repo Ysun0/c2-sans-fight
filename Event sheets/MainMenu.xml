@@ -132,7 +132,7 @@
                             <param id="0" name="Scale">2</param>
                         </action>
                         <action id="0" name="Set text" sid="6017732506802038" type="DefaultFont">
-                            <param id="0" name="Text">&quot;Select your bad time&quot;</param>
+                            <param id="0" name="Text">&quot;papyrus egg&quot;</param>
                         </action>
                         <action id="7" name="Set horizontal alignment" sid="6681899051898119" type="DefaultFont">
                             <param id="0" name="Horizontal alignment">1</param>
@@ -155,7 +155,7 @@
                         </action>
                         <action id="0" name="Call function" sid="516406951993025" type="Function">
                             <param id="0" name="Name">&quot;CreateMenuItem&quot;</param>
-                            <param id="1" name="Parameter {n}">0{###}192{###}224{###}4{###}&quot;Custom attack&quot;{###}&quot;MenuModeCustom&quot;</param>
+                            <param id="1" name="Parameter {n}">0{###}192{###}224{###}4{###}&quot;egg&quot;{###}&quot;MenuModeCustom&quot;</param>
                         </action>
                     </actions>
                 </event-block>
@@ -342,7 +342,7 @@
                             <param id="0" name="Scale">2</param>
                         </action>
                         <action id="0" name="Set text" sid="63601467630781" type="DefaultFont">
-                            <param id="0" name="Text">&quot;Custom attack&quot;</param>
+                            <param id="0" name="Text">&quot;egg&quot;</param>
                         </action>
                         <action id="7" name="Set horizontal alignment" sid="641170030262494" type="DefaultFont">
                             <param id="0" name="Horizontal alignment">1</param>
@@ -467,7 +467,7 @@
                             <param id="3" name="Y">8</param>
                         </action>
                         <action id="0" name="Set text" sid="1740537707642743" type="BattleFont">
-                            <param id="0" name="Text">&quot;CUSTOM ATTACK LOADED&quot;</param>
+                            <param id="0" name="Text">&quot;EGG LOADED&quot;</param>
                         </action>
                         <action id="-5" name="Set width" sid="5325527041498359" type="BattleFont">
                             <param id="0" name="Width">640</param>
@@ -687,3 +687,4 @@
         </event-group>
     </events>
 </c2eventsheet>
+
