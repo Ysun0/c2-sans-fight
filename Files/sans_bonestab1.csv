@@ -4,9 +4,9 @@
 0.25,SET,i,0
 0,JMPE,41,$i,8
 0,RND,rng1,4
-0,RND,rng2,40
-0,ADD,length1,30,$rng2
-0,SUB,length2,115,$rng2
+0,RND,rng2,35
+0,ADD,length1,25,$rng2
+0,SUB,length2,120,$rng2
 0,JMPE,20,$rng1,1
 0,JMPE,27,$rng1,2
 0,JMPE,34,$rng1,3
