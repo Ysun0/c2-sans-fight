@@ -1,9 +1,9 @@
 0,CombatZoneResizeInstant,25,165,615,387
 0,HeartMode,0
 0,HeartTeleport,320,300
-0.25,SansBody,HandLeft
-0,Sound,GasterBlaster,
-0,SET,i,0
+
+
+0.25,SET,i,0
 0,JMPE,50,$i,120
 0,MUL,angle,$i,15
 0,MOD,randomBlaster,$i,8
