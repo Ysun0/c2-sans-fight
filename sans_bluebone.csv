@@ -12,7 +12,7 @@
 0,GasterBlaster,1,0,0,$HeartX,250,90,0.375,0.375
 0,MOD,ifEven,$GasterRep1,2
 0,JMPNE,17,$ifEven,0
-0,BoneV,503,366,20,2,172,1
+0,BoneV,503,366,20,2,216,1
 0,Sound,Bonestab,
 0,ADD,GasterRep1,$GasterRep1,1
 0,JMPNE,11,$GasterRep1,16
