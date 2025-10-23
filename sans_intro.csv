@@ -119,7 +119,7 @@
 0,BoneStab,1,96,1,0.75
 0,BoneStab,2,96,1,0.75
 0,BoneStab,3,96,1,0.75
-1.375,SET,j,0
+1.25,SET,j,0
 0,JMPE,138,$j,2
 0,SET,i,0
 0,JMPE,136,$i,4
@@ -148,4 +148,5 @@
 0,SansHead,Default
 0,SansAnimation,Idle
 0,Sound,mus_zz_megalovania,1
+
 0,EndAttack
