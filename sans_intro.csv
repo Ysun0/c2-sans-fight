@@ -1,7 +1,7 @@
 0,Sound,mus_zz_megalovania,0
 0,SansAnimation
 0,SansHead,ClosedEyes
-0,SansText,its a beautiful day            outside,
+0,SansText,its a beautiful day\noutside,
 0,SansText,birds are singing,
 0,SansText,flowers are blooming,
 0,SansText,on days like these,
@@ -150,3 +150,4 @@
 0,Sound,mus_zz_megalovania,1
 
 0,EndAttack
+
